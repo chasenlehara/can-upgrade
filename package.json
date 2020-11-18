@@ -32,6 +32,6 @@
     "jshint": "^2.8.0"
   },
   "dependencies": {
-    "yargs": "^3.29.0"
+    "yargs": "^16.0.0"
   }
 }
